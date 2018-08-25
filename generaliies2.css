@@ -63,14 +63,14 @@ div#header2  {border-bottom: 0px solid #bbbbbb;
               border-top: 1px solid #bbbbbb;
               overflow:auto;
               padding:5px;
-              padding-top:1px;}
+              padding-top:0px;}
 
 
 div#navigation {position:relative;
                 float:left;
                 width:190px;
                 text-align:left;
-                padding-top:20px;
+                padding-top:10px;
                 padding-right:2px;
                 padding-left:2px;}
 
