@@ -54,12 +54,13 @@ div#central {width:775px;
           margin-left: auto;
 	        margin-right: auto;}
 
-div#header  {border-bottom: 1px solid #bbbbbb;
+div#header  {border-bottom: 0px solid #bbbbbb;
           overflow:auto;
           padding:5px;
           padding-top:15px;}
 
 div#header2  {border-bottom: 0px solid #bbbbbb;
+              border-top: 1px solid #bbbbbb;
               overflow:auto;
               padding:5px;
               padding-top:3px;}
