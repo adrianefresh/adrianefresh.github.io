@@ -99,7 +99,7 @@ div.navtitle {font-family: 'Open Sans', sans-serif;
               font-weight: 400;
               color: #004488;}
 
-div.navtitle a { color:#004488;
+div.navtitle a { color:#000000;
                  font-weight: 400;}
 
 div.navtitle a:hover {color: #dd6600;  }
