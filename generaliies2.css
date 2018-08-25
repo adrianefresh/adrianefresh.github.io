@@ -59,7 +59,7 @@ div#header  {border-bottom: 1px solid #bbbbbb;
           padding:5px;
           padding-top:15px;}
 
-div#navigation {
+div#navigation {position:relative;
                 float:left;
                 width:190px;
                 text-align:left;
@@ -68,13 +68,14 @@ div#navigation {
                 padding-left:2px;}
 
 div#main {float: right;
+              font-stretch: normal;
               min-height:400px;
               height:auto !important;
               height:400px;
               width: 559px;
               padding-left:20px;
               padding-right:2px;
-              text-aling:left;}
+              text-align:left;}
 
 div#lower    {float:left;
               font-size:10px;
@@ -90,7 +91,7 @@ div#lower    {float:left;
 div.section{ width:559px;}
 
 div.navtitle {font-family: 'Open Sans', sans-serif;
-	     margin-bottom:5px;
+	            margin-bottom:5px;
               margin-top:10px;
               padding:2px;
               padding-left:4px;
