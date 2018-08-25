@@ -20,7 +20,7 @@ a     { font-family: 'Open Sans', sans-serif;
          font-weight: 400;
          color:#424741;}
 
-a:hover  { color: #dd6600;}
+a:hover  { color: #db4c0f;}
 
 
 h3    {position:relative;
@@ -114,7 +114,7 @@ div.navtitle {font-family: 'Open Sans', sans-serif;
 div.navtitle a { color:#000000;
                  font-weight: 400;}
 
-div.navtitle a:hover {color: #dd6600;  }
+div.navtitle a:hover {color: #db4c0f;  }
 
 div.navinfo { font-family: 'Open Sans', sans-serif;
               padding:2px;
@@ -125,8 +125,8 @@ div.navinfo { font-family: 'Open Sans', sans-serif;
 
 div.navinfo a {color:#000000;}
 
-div.navinfo a:hover {color: #dd6600; }
+div.navinfo a:hover {color: #db4c0f; }
 
 div.main a {color:#000000;}
 
-div.main a:hover {color: #dd6600; }
+div.main a:hover {color: #db4c0f; }
