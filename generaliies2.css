@@ -138,3 +138,6 @@ div.main a:hover {color: #db4c0f; }
 a:hover {color: #db4c0f; }
 
 div.general  a:hover  { border-top: 9px solid #db4c0f; }
+
+.hidden { display: none; }
+.unhidden { display: block; }
