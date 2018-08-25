@@ -54,10 +54,16 @@ div#central {width:775px;
           margin-left: auto;
 	        margin-right: auto;}
 
-div#header  {border-bottom: 1px solid #bbbbbb;
+div#header  {border-bottom: 0px solid #bbbbbb;
           overflow:auto;
           padding:5px;
-          padding-top:15px;}
+          padding-top:3px;}
+
+div#header2  {border-bottom: 1px solid #bbbbbb;
+              overflow:auto;
+              padding:5px;
+              padding-top:15px;}
+
 
 div#navigation {position:relative;
                 float:left;
@@ -99,7 +105,7 @@ div.navtitle {font-family: 'Open Sans', sans-serif;
               border-bottom:1px solid #999999;
               font-size:12px;
               font-weight: 400;
-              color: #004488;}
+              color: #000000;}
 
 div.navtitle a { color:#000000;
                  font-weight: 400;}
