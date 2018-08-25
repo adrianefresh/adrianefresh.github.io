@@ -53,6 +53,12 @@ div   {position:relative;
          margin:0px;
          padding:0px;}
 
+div#general   {position:relative;
+                  border:0px;
+                  margin:0px;
+                  padding:0px;}
+
+
 div#central {width:775px;
           margin-left: auto;
 	        margin-right: auto;}
@@ -132,4 +138,4 @@ div.main a {color:#000000;}
 
 div.main a:hover {color: #db4c0f; }
 
-div.header2 a:hover {color: #2d7f23; }
+div.general a:hover {color: #2d7f23; }
