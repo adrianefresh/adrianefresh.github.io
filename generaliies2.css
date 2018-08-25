@@ -18,7 +18,10 @@ td    {font-family: 'Open Sans', sans-serif;
 a     { font-family: 'Open Sans', sans-serif;
          text-decoration:none;
          font-weight: 400;
-         color:#004488;}
+         color:#424741;}
+
+a:hover  { color: #dd6600;}
+
 
 h3    {position:relative;
         font-family: 'Open Sans', sans-serif;
