@@ -103,6 +103,12 @@ div#lower    {float:left;
               overflow:visible;
               height:50px;}
 
+p.institution { margin-top:10px;
+                                font-weight: 1200;}
+
+p.institution a { margin-top:10px;
+                  font-weight: 1200;}
+
 div.section{ width:559px;}
 
 div.navtitle {font-family: 'Open Sans', sans-serif;
