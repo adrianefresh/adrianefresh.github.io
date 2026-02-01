@@ -66,3 +66,13 @@ a:focus {
   color: $color-accent;
   border-bottom: 2px solid $color-accent;
 }
+/* Profile image: minimalist, rectangular */
+
+.author__avatar img {
+  border-radius: 6px;   /* small rounding, not a circle */
+  max-width: 160px;
+}
+
+.author__avatar {
+  margin-bottom: 1.25rem;
+}
