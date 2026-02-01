@@ -40,6 +40,7 @@ $color-accent-hover: #2c4f75;
 /* Base text */
 body {
   color: $color-text-main;
+  font-family: $global-font-family;  /* add this line */
 }
 
 /* Muted text (dates, metadata, small labels) */
