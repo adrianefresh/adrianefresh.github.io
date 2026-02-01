@@ -27,3 +27,42 @@ h3 {
   margin-top: 2rem;
   margin-bottom: 0.75rem;
 }
+
+
+
+/* Minimalist color palette */
+
+$color-text-main: #1f2933;
+$color-text-muted: #6b7280;
+$color-accent: #355f8c;
+$color-accent-hover: #2c4f75;
+
+/* Base text */
+body {
+  color: $color-text-main;
+}
+
+/* Muted text (dates, metadata, small labels) */
+.page__meta,
+.archive__item-excerpt,
+.small {
+  color: $color-text-muted;
+}
+
+/* Links */
+a {
+  color: $color-accent;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: $color-accent-hover;
+  text-decoration: underline;
+}
+
+/* Navigation active item */
+.greedy-nav .visible-links a.active {
+  color: $color-accent;
+  border-bottom: 2px solid $color-accent;
+}
