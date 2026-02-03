@@ -55,8 +55,8 @@ html body a {
 }
 
 /* Reduce page text width by 20% from the right */
-.archive {
-  padding-right: 20% !important;
+.list__item {
+  margin-right: 20% !important;
 }
 
 /* Keep office address links in Courier font */
