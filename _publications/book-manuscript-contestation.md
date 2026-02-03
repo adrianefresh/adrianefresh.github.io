@@ -5,5 +5,6 @@ category: book_manuscripts
 excerpt: ''
 date: 2026-01-01
 status: 'In Progress'
+published: false
 ---
 

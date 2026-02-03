@@ -53,3 +53,8 @@ html body a {
 :root {
   --global-border-color: #d4d5d6 !important;
 }
+
+/* Reduce page text width by 20% from the right */
+.page {
+  max-width: 1024px;
+}
