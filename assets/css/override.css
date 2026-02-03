@@ -55,9 +55,11 @@ html body a {
 }
 
 /* Reduce page text width by 20% from the right */
-@media (min-width: 1280px) {
-  .archive {
-    margin-right: auto;
-    width: 80%;
-  }
+.archive {
+  padding-right: 20% !important;
+}
+
+/* Keep office address links in Courier font */
+.author__content a {
+  font-family: 'Courier New', monospace !important;
 }
