@@ -43,3 +43,10 @@ html body a {
   display: inline;
   white-space: nowrap;
 }
+
+/* Reduce excerpt width by 15% */
+@media (min-width: 1280px) {
+  .archive {
+    max-width: 1088px;
+  }
+}
