@@ -46,7 +46,7 @@ html body a {
 
 /* Reduce excerpt width by 15%, then another 10% */
 @media (min-width: 1280px) {
-  .archive {
+  .list__item {
     max-width: 979px;
   }
 }
