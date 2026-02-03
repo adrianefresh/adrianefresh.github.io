@@ -158,10 +158,6 @@
     border-radius: 0;
     aspect-ratio: 2.8/4;
     object-fit: cover;
-
-    @include breakpoint($large) {
-      padding: 5px;
-    }
   }
 }
 

@@ -28,4 +28,10 @@ html body a {
 .archive h2 {
   font-size: 1.3em;
 }
+
+/* Prevent wrapping on employer link */
+.author__urls li a {
+  display: inline;
+  white-space: nowrap;
+}
 }
