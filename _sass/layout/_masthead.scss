@@ -58,10 +58,6 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-
-    @include breakpoint($large) {
-      margin-left: span(2 of 12);
-    }
   }
 }
 
@@ -74,6 +70,11 @@
   &--lg {
     padding-right: 2em;
     font-weight: 400;
+    margin-right: span(2 of 12);
+
+    @include breakpoint($large) {
+      margin-right: span(2 of 12);
+    }
   }
 }
 
