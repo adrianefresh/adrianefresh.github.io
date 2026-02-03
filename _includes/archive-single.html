@@ -34,6 +34,10 @@
       {% endif %}
     </h2>
     
+    {% if post.status %}
+      <p style="margin-top: 0.5em;"><em>{{ post.status }}</em></p>
+    {% endif %}
+    
     {% if post.citation %}
       <p style="margin-top: 1.25em;">{{ post.citation }}
       {% if post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl %}

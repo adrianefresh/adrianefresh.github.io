@@ -45,10 +45,8 @@ html body a {
 }
 
 /* Reduce excerpt width by 15%, then another 10% */
-@media (min-width: 1280px) {
-  .list__item {
-    max-width: 979px;
-  }
+.list__item .archive__item-excerpt {
+  max-width: 979px;
 }
 
 /* Make publication titles bold */
