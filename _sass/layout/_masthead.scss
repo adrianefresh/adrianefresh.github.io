@@ -70,6 +70,7 @@
   &--lg {
     padding-right: 2em;
     font-weight: 400;
+    font-size: 1.2em;
     margin-right: span(2 of 12);
 
     @include breakpoint($large) {
