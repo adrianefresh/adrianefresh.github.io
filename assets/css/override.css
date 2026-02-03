@@ -44,11 +44,6 @@ html body a {
   white-space: nowrap;
 }
 
-/* Reduce excerpt width by 15%, then another 10% */
-.list__item .archive__item-excerpt {
-  max-width: 979px;
-}
-
 /* Make publication titles bold */
 .archive__item-title a {
   font-weight: bold !important;
