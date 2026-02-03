@@ -18,6 +18,13 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
+    
+    <div style="margin-top: 1.5em; margin-bottom: 1.5em; font-family: 'Courier New', monospace; font-size: 0.75em; line-height: 1.6;">
+      Office 261 (2nd floor)<br/>
+      Gross Hall<br/>
+      108 Science Dr.<br/>
+      Durham NC, 27705
+    </div>
   </div>
 
   <div class="author__urls-wrapper">
@@ -181,13 +188,6 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}
-      
-      <li style="margin-top: 2em; margin-bottom: 0.5em; font-family: 'Courier New', monospace; font-size: 0.65em; line-height: 1.6;">
-        Office 261 (2nd floor)<br/>
-        Gross Hall<br/>
-        108 Science Dr.<br/>
-        Durham NC, 27705
-      </li>
     </ul>
   </div>
 </div>
