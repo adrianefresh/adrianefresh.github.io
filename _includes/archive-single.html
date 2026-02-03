@@ -35,7 +35,7 @@
     </h2>
     
     {% if post.citation %}
-      <p style="margin-top: 1.5em;">{{ post.citation }}
+      <p style="margin-top: 1.25em;">{{ post.citation }}
       {% if post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl %}
         <br />
         {% if post.paperurl %}<a href="{{ post.paperurl }}">{% if post.title contains "Section 5" %}Accepted Version{% else %}Download Paper{% endif %}</a>{% endif %}
@@ -46,7 +46,7 @@
       {% endif %}
       </p>
     {% elsif post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl %}
-      <p style="margin-top: 1.5em;">
+      <p style="margin-top: 1.25em;">
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
         {% if post.appendixurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.appendixurl }}">Download Appendix</a>{% endif %}
         {% if post.slidesurl %}{% if post.paperurl or post.appendixurl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
@@ -64,9 +64,9 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.6em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
+    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.55em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.6em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.55em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
   </article>

@@ -44,9 +44,19 @@ html body a {
   white-space: nowrap;
 }
 
-/* Reduce excerpt width by 15% */
+/* Reduce excerpt width by 15%, then another 10% */
 @media (min-width: 1280px) {
   .archive {
-    max-width: 1088px;
+    max-width: 979px;
   }
+}
+
+/* Make publication titles bold */
+.archive__item-title a {
+  font-weight: bold !important;
+}
+
+/* Darken border color by 15% for light theme */
+:root {
+  --global-border-color: #d4d5d6 !important;
 }
