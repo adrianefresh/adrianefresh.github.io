@@ -4,8 +4,8 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
-  color: var(--global-text-color-light);
+  background-color: #3a3a3a;
+  color: #ffffff;
 
   float: left;
   margin-left: 0;
@@ -31,9 +31,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.5em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0.5em 1em;
+    padding: 0.3em 1em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

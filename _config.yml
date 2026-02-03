@@ -32,12 +32,14 @@ author:
   bio              : "Assistant Research Professor"
   location         : # URL
   employer         : "Duke University"
+  employer_url     : "https://scholars.duke.edu/person/adriane.fresh"
   uri              : # URL
   email            : "adriane.fresh@duke.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
+  calendly         : "https://calendly.com/adriane-adrianefresh/20min"
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
