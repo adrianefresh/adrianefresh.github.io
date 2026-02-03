@@ -65,9 +65,9 @@
 
   @include breakpoint($large) {
     position: relative;
-    float: left;
+    float: right;
     width: $right-sidebar-width-narrow;
-    margin-right: span(0.5 of 12);
+    margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
