@@ -63,3 +63,7 @@ html body a {
 .author__content a {
   font-family: 'Courier New', monospace !important;
 }
+
+.author__content div a {
+  font-family: 'Courier New', monospace !important;
+}
