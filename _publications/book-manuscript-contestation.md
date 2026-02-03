@@ -1,5 +1,5 @@
 ---
-title: "Creating Contestation: Adversarial Politics and Institutional Change in 17th Century England"
+title: "Creating Contestation: Adversarial Politics and the Early Modern Origins of Electoral Institutions"
 collection: publications
 category: book_manuscripts
 excerpt: ''
