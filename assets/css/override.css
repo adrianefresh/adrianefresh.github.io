@@ -13,29 +13,29 @@ html body a {
 
 /* Reduce text size on publications page */
 .list__item .archive__item-title {
-  font-size: 0.95em;
+  font-size: 0.85em;
 }
 
 .list__item .archive__item-excerpt,
 .list__item article.archive__item > p {
-  font-size: 0.85em;
+  font-size: 0.75em;
 }
 
 .archive__item p {
-  font-size: 0.85em;
+  font-size: 0.75em;
 }
 
 .archive h2 {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 /* Reduce page title and category heading sizes */
 .page__title {
-  font-size: 1.5em;
+  font-size: 1.35em;
 }
 
 .archive h2 {
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 /* Prevent wrapping on employer link */
