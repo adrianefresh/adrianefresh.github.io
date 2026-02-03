@@ -55,6 +55,8 @@ html body a {
 }
 
 /* Reduce page text width by 20% from the right */
-.page {
-  max-width: 1024px;
+@media (min-width: 1280px) {
+  .page {
+    max-width: 1024px !important;
+  }
 }
