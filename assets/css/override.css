@@ -29,6 +29,15 @@ html body a {
   font-size: 1.3em;
 }
 
+/* Reduce page title and category heading sizes */
+.page__title {
+  font-size: 1.5em;
+}
+
+.archive h2 {
+  font-size: 1.1em;
+}
+
 /* Prevent wrapping on employer link */
 .author__urls li a {
   display: inline;

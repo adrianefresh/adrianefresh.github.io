@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Section 5 on Enfranchisement: Evidence From North Carolina"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2018-04-01-section-5-enfranchisement
 excerpt: 'This paper examines the effect of Section 5 of the Voting Rights Act on voter enfranchisement using evidence from North Carolina.'
 date: 2018-04-01
