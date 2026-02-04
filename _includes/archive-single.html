@@ -70,9 +70,15 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
+    <details style="margin-top: 1em;">
+      <summary style="cursor: pointer; font-size: 0.5em; line-height: 1.6;">Abstract</summary>
+      <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
+    </details>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    <details style="margin-top: 1em;">
+      <summary style="cursor: pointer; font-size: 0.5em; line-height: 1.6;">Abstract</summary>
+      <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    </details>
     {% endif %}
 
   </article>
