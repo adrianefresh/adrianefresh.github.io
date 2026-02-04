@@ -6,6 +6,7 @@ excerpt: "This paper examines how population growth and urbanization---core proc
 date: 2026-01-02
 formertitle: "Formerly circulated under the title \"Industrial Revolution & Political Change: Evidence from the British Isles\""
 status: 'Revise and Resubmit at the American Political Science Review'
+link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734362'
 drafturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734362'
 ---
 

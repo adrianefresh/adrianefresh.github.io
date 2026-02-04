@@ -46,21 +46,26 @@
     
     {% if post.citation %}
       <p style="margin-top: 1.25em;">{{ post.citation }}
-      {% if post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
+      {% if post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
         <br />
-        {% if post.drafturl %}<a href="{{ post.drafturl }}">Draft</a>{% endif %}
-        {% if post.paperurl %}{% if post.drafturl %} | {% endif %}<a href="{{ post.paperurl }}">{% if post.title contains "Section 5" %}Accepted Version{% else %}Download Paper{% endif %}</a>{% endif %}
-        {% if post.appendixurl %}{% if post.paperurl or post.drafturl %} | {% endif %}<a href="{{ post.appendixurl }}">{% if post.title contains "Section 5" %}Appendix{% else %}Download Appendix{% endif %}</a>{% endif %}
-        {% if post.slidesurl %}{% if post.paperurl or post.appendixurl or post.drafturl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
-        {% if post.replicationurl %}{% if post.paperurl or post.appendixurl or post.slidesurl or post.drafturl %} | {% endif %}<a href="{{ post.replicationurl }}">{% if post.title contains "Section 5" %}Replication Materials{% else %}Replication Materials{% endif %}</a>{% endif %}
-        {% if post.bibtexurl %}{% if post.paperurl or post.appendixurl or post.slidesurl or post.replicationurl or post.drafturl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
+        {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
+        {% if post.paperurl %}{% if post.publishedarticleurl %} | {% endif %}<a href="{{ post.paperurl }}">{% if post.title contains "Section 5" %}Accepted Version{% else %}Download Paper{% endif %}</a>{% endif %}
+        {% if post.drafturl %}{% if post.publishedarticleurl or post.paperurl %} | {% endif %}<a href="{{ post.drafturl }}">Draft</a>{% endif %}
+        {% if post.appendixurl %}{% if post.publishedarticleurl or post.paperurl or post.drafturl %} | {% endif %}<a href="{{ post.appendixurl }}">{% if post.title contains "Section 5" %}Appendix{% else %}Download Appendix{% endif %}</a>{% endif %}
+        {% if post.slidesurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.drafturl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
+        {% if post.replicationurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.slidesurl or post.drafturl %} | {% endif %}<a href="{{ post.replicationurl }}">{% if post.title contains "Section 5" %}Replication Materials{% else %}Replication Materials{% endif %}</a>{% endif %}
+        {% if post.bibtexurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.slidesurl or post.replicationurl or post.drafturl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
       {% endif %}
       </p>
-    {% elsif post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
+    {% elsif post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
       <p style="margin-top: 1.25em;">
-        {% if post.drafturl %}<a href="{{ post.drafturl }}">Draft</a>{% endif %}
-        {% if post.paperurl %}{% if post.drafturl %} | {% endif %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-        {% if post.appendixurl %}{% if post.paperurl or post.drafturl %} | {% endif %}<a href="{{ post.appendixurl }}">Download Appendix</a>{% endif %}
+        {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
+        {% if post.paperurl %}{% if post.publishedarticleurl %} | {% endif %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
+        {% if post.drafturl %}{% if post.publishedarticleurl or post.paperurl %} | {% endif %}<a href="{{ post.drafturl }}">Draft</a>{% endif %}
+        {% if post.appendixurl %}{% if post.publishedarticleurl or post.paperurl or post.drafturl %} | {% endif %}<a href="{{ post.appendixurl }}">Download Appendix</a>{% endif %}
+        {% if post.slidesurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.drafturl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
+        {% if post.replicationurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.slidesurl or post.drafturl %} | {% endif %}<a href="{{ post.replicationurl }}">Replication Materials</a>{% endif %}
+        {% if post.bibtexurl %}{% if post.publishedarticleurl or post.paperurl or post.appendixurl or post.slidesurl or post.replicationurl or post.drafturl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
         {% if post.slidesurl %}{% if post.paperurl or post.appendixurl or post.drafturl %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
         {% if post.replicationurl %}{% if post.paperurl or post.appendixurl or post.slidesurl or post.drafturl %} | {% endif %}<a href="{{ post.replicationurl }}">Replication Materials</a>{% endif %}
         {% if post.bibtexurl %}{% if post.paperurl or post.appendixurl or post.slidesurl or post.replicationurl or post.drafturl %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}
