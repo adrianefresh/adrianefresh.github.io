@@ -36,6 +36,10 @@
       {% endif %}
     </h2>
     
+    {% if post.formertitle %}
+      <p style="margin-top: 0.5em; font-size: 0.5em;"><em>{{ post.formertitle }}</em></p>
+    {% endif %}
+    
     {% if post.status %}
       <p style="margin-top: 0.5em;"><em>{{ post.status }}</em></p>
     {% endif %}
@@ -71,12 +75,12 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <details style="margin-top: 1em;">
-      <summary style="cursor: pointer; font-size: 0.5em; line-height: 1.6;">Abstract</summary>
+      <summary style="cursor: pointer; font-size: 0.75em; line-height: 1.6; display: list-item;">Abstract</summary>
       <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
     </details>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <details style="margin-top: 1em;">
-      <summary style="cursor: pointer; font-size: 0.5em; line-height: 1.6;">Abstract</summary>
+      <summary style="cursor: pointer; font-size: 0.75em; line-height: 1.6; display: list-item;">Abstract</summary>
       <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     </details>
     {% endif %}
