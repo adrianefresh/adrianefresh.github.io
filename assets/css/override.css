@@ -72,3 +72,9 @@ html body a {
 .archive__subtitle {
   margin-top: 10em !important;
 }
+
+/* Link hover color - dark forest green */
+a:hover {
+  color: #228B22 !important;
+}
+
