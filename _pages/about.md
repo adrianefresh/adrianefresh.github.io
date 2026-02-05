@@ -12,7 +12,7 @@ redirect_from:
   <div>Interdisciplinary Data Science Program, Social Science Research Institute, Duke University</div>
 </div>
 <div style="display: flex; gap: 1em;">
-  <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
+  <div style="flex-shrink: 0; width: 3.5em;">2019-</div>
   <div>Department of Political Science, Duke University</div>
 </div>
 
@@ -23,9 +23,9 @@ redirect_from:
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
 
-From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love.  Before coming to Duke, I was a Post-Doctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/) at Vanderbilt University.  
+From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love. I'm happy to discuss the choice if you'd like to know more.   
 
-I received my PhD in [Political Science](https://politicalscience.stanford.edu/) from Stanford University in 2017.  I also hold an MA in [Economics](https://economics.stanford.edu/) from Stanford University, and BAs in both Economics and Latin American Studies, where I also minored in Mathematics, from [New York University](https://www.nyu.edu/). After completing my undergraduate degrees, I spent three years as a Research Assistant at the [Brookings Institute](https://www.brookings.edu/) in Washington, DC.  
+Before coming to Duke, I was a Post-Doctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/) at Vanderbilt University.  I received my PhD in [Political Science](https://politicalscience.stanford.edu/) from Stanford University in 2017.  I also hold an MA in [Economics](https://economics.stanford.edu/) from Stanford University, and BAs in both Economics and Latin American Studies, where I also minored in Mathematics, from [New York University](https://www.nyu.edu/). After completing my undergraduate degrees, I spent three years as a Research Assistant at the [Brookings Institute](https://www.brookings.edu/) in Washington, DC.  
 
 I was born and raised in Seattle, Washington.   
 
