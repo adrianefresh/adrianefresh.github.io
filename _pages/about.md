@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-| | |
-|---|---|
-| 2025- | Interdisciplinary Data Science Program, Social Science Research Institute, Duke University |
-| 2025- | Department of Political Science, Duke University |
+<div style="display: flex; gap: 1em;">
+  <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
+  <div>Interdisciplinary Data Science Program, Social Science Research Institute, Duke University</div>
+</div>
+<div style="display: flex; gap: 1em;">
+  <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
+  <div>Department of Political Science, Duke University</div>
+</div>
 
 
 
