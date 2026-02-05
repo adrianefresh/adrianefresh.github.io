@@ -13,6 +13,7 @@ redirect_from:
 
 
 <div style="font-size: 0.9em;" markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
 
