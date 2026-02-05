@@ -45,7 +45,7 @@
     {% endif %}
     
     {% if post.citation %}
-      <p style="margin-top: 0.6em;">{{ post.citation }}
+      <p style="margin-top: 0.3em;">{{ post.citation }}
       {% if post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
         <br />
         {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
@@ -58,7 +58,7 @@
       {% endif %}
       </p>
     {% elsif post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
-      <p style="margin-top: 0.6em;">
+      <p style="margin-top: 0.3em;">
         {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
         {% if post.paperurl %}{% if post.publishedarticleurl %} | {% endif %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
         {% if post.drafturl %}{% if post.publishedarticleurl or post.paperurl %} | {% endif %}<a href="{{ post.drafturl }}">Current Draft</a>{% endif %}
