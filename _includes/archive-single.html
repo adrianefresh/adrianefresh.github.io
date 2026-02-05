@@ -29,7 +29,7 @@
     <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
-        {{ title_parts[0] }}(<a href="{{ post.course_url }}">{{ title_parts[1] | remove: ')' }}</a>)
+        {{ title_parts[0] }}(<a href="{{ post.course_url }}">{{ title_parts[1] | remove: ')' | strip }}</a>)
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.url %}

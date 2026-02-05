@@ -189,8 +189,11 @@ body:hover .visually-hidden button {
 
 /* Adjust this setting to control the space between an icon and text in the sidebar */
 .icon-pad-right {
-  padding-right: 0.05em;
-  margin-right: 0.01em;
+  padding-right: 0.15em;
+  margin-right: 0.05em;
+  display: inline-block;
+  width: 1.2em;
+  text-align: center;
 }
 
 /* social icons*/
