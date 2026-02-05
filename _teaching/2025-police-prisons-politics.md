@@ -1,5 +1,5 @@
 ---
-title: "Police, Prisons and Politics (POLSCI 109)"
+title: "Police, Prisons and Politics (POLSCI109)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-police-prisons-politics

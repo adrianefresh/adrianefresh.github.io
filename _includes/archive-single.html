@@ -80,10 +80,11 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="margin-top: 0.2em; margin-bottom: 0.3em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+          <p style="margin-top: 0.2em; margin-bottom: 0.2em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
           {% if post.term %}
-            <p style="margin-top: 0; margin-bottom: 0;">{{ post.term }}</p>
+            <p style="margin-top: 0; margin-bottom: 0.3em;">{{ post.term }}</p>
           {% endif %}
+          <p style="margin-top: 0; margin-bottom: 0;">Syllabus | Materials Repository</p>
         {% endif %}
 
     {% if post.excerpt %}
