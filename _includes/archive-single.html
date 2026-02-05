@@ -27,7 +27,10 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold;">
-      {% if post.link %}
+      {% if post.collection == 'teaching' and post.course_url %}
+        {% assign title_parts = title | split: '(' %}
+        {{ title_parts[0] }}(<a href="{{ post.course_url }}">{{ title_parts[1] | remove: ')' }}</a>)
+      {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.url %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -77,11 +80,10 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="margin-top: 0.2em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+          <p style="margin-top: 0.2em; margin-bottom: 0;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
           {% if post.term %}
-            <p style="margin-top: -0.5em; margin-bottom: 0;">{{ post.term }}</p>
+            <p style="margin-top: -0.8em; margin-bottom: 0;">{{ post.term }}</p>
           {% endif %}
-        {% endif %}
         {% endif %}
 
     {% if post.excerpt %}
