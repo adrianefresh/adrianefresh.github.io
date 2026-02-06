@@ -12,8 +12,12 @@ redirect_from:
 .page__title {
   font-size: 1.5em !important;
 }
-.page__content {
+section.page__content {
   max-width: 60% !important;
+}
+section.page__content div,
+section.page__content p {
+  max-width: 100% !important;
 }
 </style>
 

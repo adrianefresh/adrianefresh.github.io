@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 <style>
-.page__content {
+section.page__content {
   max-width: 60% !important;
+}
+section.page__content div,
+section.page__content p {
+  max-width: 100% !important;
 }
 </style>
 
