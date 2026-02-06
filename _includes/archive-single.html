@@ -29,7 +29,7 @@
     <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
-        <span style="text-decoration: underline;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: underline;">)</span>
+        {{ title_parts[0] }}(<a href="{{ post.course_url }}" style="text-decoration: underline;">{{ title_parts[1] | remove: ')' | strip }}</a>)
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.url %}
