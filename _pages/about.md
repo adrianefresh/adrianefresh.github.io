@@ -7,18 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; gap: 1em;">
+<style>
+.page__title {
+  font-size: 2em;
+}
+</style>
+
+<div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
   <div>Interdisciplinary Data Science Program, Social Science Research Institute, Duke University</div>
 </div>
-<div style="display: flex; gap: 1em;">
+<div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2019-</div>
   <div>Department of Political Science, Duke University</div>
 </div>
 
 
 
-<div style="font-size: 0.9em;" markdown="1">
+<div style="font-size: 0.85em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
