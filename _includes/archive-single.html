@@ -29,7 +29,7 @@
     <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
-        {{ title_parts[0] }}(<a href="{{ post.course_url }}" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{ title_parts[1] | remove: ')' | strip }}</a>)
+        <span style="text-decoration: underline;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: underline;">)</span>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.url %}
@@ -82,10 +82,10 @@
         {% if post.collection == 'teaching' %}
           <p style="margin-top: 0.2em; margin-bottom: 0.2em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
           {% if post.term %}
-            <p style="margin-top: 0; margin-bottom: 0.3em;">{{ post.term }}</p>
+            <p style="margin-top: 0; margin-bottom: 0.3em;">{{ post.term | markdownify }}</p>
           {% endif %}
           <p style="margin-top: 0; margin-bottom: 0;">
-            {% if post.syllabus_url %}<a href="{{ post.syllabus_url }}">Syllabus</a>{% else %}Syllabus{% endif %} | 
+            {% if post.syllabus_url %}<a href="{{ post.syllabus_url }}">{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}</a>{% else %}{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}{% endif %} | 
             {% if post.materials_url %}<a href="{{ post.materials_url }}">Course Materials</a>{% else %}Course Materials{% endif %}
           </p>
         {% endif %}
