@@ -12,9 +12,6 @@ redirect_from:
 .page__title {
   font-size: 1.5em !important;
 }
-.page__content {
-  max-width: 45em;
-}
 </style>
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
