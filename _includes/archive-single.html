@@ -26,10 +26,10 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold;">
+    <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold; text-decoration: none;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
-        {{ title_parts[0] }}(<a href="{{ post.course_url }}" style="text-decoration: underline;">{{ title_parts[1] | remove: ')' | strip }}</a>)
+        <span style="text-decoration: none;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: underline;">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: none;">)</span>
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.url %}
