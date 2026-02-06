@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .page__content {
-  max-width: 50em;
+  max-width: 45em;
 }
 </style>
 
