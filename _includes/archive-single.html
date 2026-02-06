@@ -82,7 +82,7 @@
         {% if post.collection == 'teaching' %}
           <p style="margin-top: 0.2em; margin-bottom: 0.2em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
           {% if post.term %}
-            <p style="margin-top: 0; margin-bottom: 0.3em;">{{ post.term | markdownify }}</p>
+            <p style="margin-top: 0; margin-bottom: 0.2em;">{{ post.term | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           {% endif %}
           <p style="margin-top: 0; margin-bottom: 0;">
             {% if post.syllabus_url %}<a href="{{ post.syllabus_url }}">{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}</a>{% else %}{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}{% endif %} | 
