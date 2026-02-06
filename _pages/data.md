@@ -16,3 +16,5 @@ author_profile: true
 <div style="margin-top: 3em;"></div>
 
 <h2>EXTERNAL DATASETS</h2><hr />
+
+<p style="font-size: smaller;">Below you can find a curated selection of links to datasets created by other researchers, teams or organizations, some of which I have used in my research. As external sources, their creators are responsible for the content and its availability.</p>
