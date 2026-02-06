@@ -5,6 +5,15 @@ permalink: /data/
 author_profile: true
 ---
 
+<style>
+.page__content {
+  max-width: 100%;
+}
+.page__content > * {
+  max-width: 60%;
+}
+</style>
+
 <h2>REPLICATION DATASETS</h2><hr />
 
 <p style="font-size: smaller;">For replication datasets and their associated code, please refer to the specific publication on the <a href="/publications/">Research</a> Page.</p>
