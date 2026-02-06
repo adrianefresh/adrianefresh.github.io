@@ -12,14 +12,9 @@ redirect_from:
 .page__title {
   font-size: 1.5em !important;
 }
-section.page__content {
-  max-width: 60% !important;
-}
-section.page__content div,
-section.page__content p {
-  max-width: 100% !important;
-}
 </style>
+
+<div style="max-width: 60%; margin: 0 auto;">
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
@@ -30,7 +25,7 @@ section.page__content p {
   <div>Department of Political Science, Duke University</div>
 </div>
 
-
+</div>
 
 <div style="font-size: 0.85em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
