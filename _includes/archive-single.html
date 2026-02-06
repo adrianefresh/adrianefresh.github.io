@@ -84,7 +84,10 @@
           {% if post.term %}
             <p style="margin-top: 0; margin-bottom: 0.3em;">{{ post.term }}</p>
           {% endif %}
-          <p style="margin-top: 0; margin-bottom: 0;">Syllabus | Materials Repository</p>
+          <p style="margin-top: 0; margin-bottom: 0;">
+            {% if post.syllabus_url %}<a href="{{ post.syllabus_url }}">Syllabus</a>{% else %}Syllabus{% endif %} | 
+            {% if post.materials_url %}<a href="{{ post.materials_url }}">Course Materials</a>{% else %}Course Materials{% endif %}
+          </p>
         {% endif %}
 
     {% if post.excerpt %}
