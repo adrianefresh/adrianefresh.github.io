@@ -13,10 +13,7 @@ redirect_from:
   font-size: 1.5em !important;
 }
 .page__content {
-  max-width: 100%;
-}
-.page__content > * {
-  max-width: 60%;
+  max-width: 60% !important;
 }
 </style>
 

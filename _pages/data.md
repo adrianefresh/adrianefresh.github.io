@@ -7,10 +7,7 @@ author_profile: true
 
 <style>
 .page__content {
-  max-width: 100%;
-}
-.page__content > * {
-  max-width: 60%;
+  max-width: 60% !important;
 }
 </style>
 
