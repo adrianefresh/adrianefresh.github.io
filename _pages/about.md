@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Current Affiliations"
 author_profile: true
 redirect_from: 
