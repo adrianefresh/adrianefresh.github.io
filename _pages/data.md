@@ -5,7 +5,7 @@ permalink: /data/
 author_profile: true
 ---
 
-<div style="max-width: 60%; margin: 0 auto;">
+<div style="max-width: 60%;">
 
 <h2>REPLICATION DATASETS</h2><hr />
 
