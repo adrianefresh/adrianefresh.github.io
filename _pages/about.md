@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-<div style="max-width: 60%;">
+<div style="max-width: 65%;">
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
