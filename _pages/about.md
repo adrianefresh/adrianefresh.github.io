@@ -25,8 +25,6 @@ redirect_from:
   <div>Department of Political Science, Duke University</div>
 </div>
 
-</div>
-
 <div style="font-size: 0.85em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
