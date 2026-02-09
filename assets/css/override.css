@@ -16,6 +16,12 @@ html body a {
   font-size: 0.85em;
 }
 
+/* Make dataset and other collection title links match text color */
+.archive__item-title a {
+  color: inherit !important;
+  text-decoration: underline;
+}
+
 .list__item .archive__item-excerpt,
 .list__item article.archive__item > p {
   font-size: 0.75em;
