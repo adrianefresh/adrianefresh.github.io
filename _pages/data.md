@@ -5,7 +5,7 @@ permalink: /data/
 author_profile: true
 ---
 
-<div style="max-width: 75%;">
+<div style="max-width: 78%;">
 
 <h2>REPLICATION DATASETS</h2><hr />
 
@@ -20,5 +20,9 @@ author_profile: true
 <h2>EXTERNAL DATASETS</h2><hr />
 
 <p style="font-size: smaller;">Below you can find a curated selection of links to datasets created by other researchers, teams or organizations, some of which I have used in my research. As external sources, their creators are responsible for the content and its availability.</p>
+
+{% for post in site.datasets reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 </div>
