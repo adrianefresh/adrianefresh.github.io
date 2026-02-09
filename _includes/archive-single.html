@@ -91,7 +91,7 @@
         {% endif %}
 
     {% if post.excerpt %}
-      {% if post.collection == 'teaching' %}
+      {% if post.collection == 'teaching' or post.collection == 'datasets' %}
         <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.5em; font-size: 0.95em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
       {% elsif site.read_more != 'enabled' %}
         <details style="margin-top: 1em;">
