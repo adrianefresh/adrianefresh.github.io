@@ -75,9 +75,9 @@ header nav {
 /* Main Content */
 main {
   flex: 1;
-  padding: 3rem 2rem;
-  max-width: 1400px;
-  margin: 0 auto;
+  padding: 2rem 0;
+  max-width: 100%;
+  margin: 0;
   width: 100%;
 }
 
@@ -87,15 +87,19 @@ main {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 0;
   padding: 0;
+  border: 1px solid #e0e0e0;
 }
 
 .item {
   display: flex;
   flex-direction: column;
   transition: transform 0.3s ease;
+  border-right: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1.5rem;
 }
 
 .item:hover {
