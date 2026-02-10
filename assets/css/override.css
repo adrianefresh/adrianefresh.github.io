@@ -60,6 +60,11 @@ h2.archive__item-title {
   color: #000 !important;
 }
 
+.archive__item-title a:visited,
+.archive__item-title a:link {
+  color: #000 !important;
+}
+
 /* Darken border color by 15% for light theme */
 :root {
   --global-border-color: #d4d5d6 !important;
