@@ -33,7 +33,7 @@ redirect_from:
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
-  <div><a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">IDS541  Practical Data Science II</a></div>
+  <div><a>Practical Data Science II</a><a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">(IDS541)</a></div>
 </div>
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;"></div>
