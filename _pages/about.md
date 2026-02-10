@@ -11,6 +11,7 @@ redirect_from:
 <style>
 .page__title {
   font-size: 1.2em !important;
+  font-weight: 400 !important;
 }
 </style>
 
@@ -33,7 +34,7 @@ redirect_from:
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
-  <div><a>Practical Data Science II</a><a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">(IDS541)</a></div>
+  <div>Practical Data Science II <a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">(IDS541)</a></div>
 </div>
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;"></div>
