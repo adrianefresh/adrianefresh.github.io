@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .favicon-bg { fill: #000; }
+      .favicon-triangle { fill: #ffffff; }
+    </style>
+  </defs>
+  
+  <!-- Rounded square background -->
+  <rect class="favicon-bg" x="0" y="0" width="192" height="192" rx="32" ry="32"/>
+  
+  <!-- White equilateral triangle centered -->
+  <polygon class="favicon-triangle" points="96,40 145.6,140 46.4,140"/>
+</svg>
