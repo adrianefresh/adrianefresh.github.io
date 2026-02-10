@@ -25,6 +25,8 @@ redirect_from:
   <div>Department of Political Science, Duke University</div>
 </div>
 
+</div>
+
 <div style="margin-top: 1.5em;"></div>
 
 <h3 style="font-size: 1em; font-weight: normal;">Current Term Teaching</h3>
@@ -33,6 +35,8 @@ redirect_from:
   <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
   <div><a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">IDS 541  Practical Data Science II</a></div>
 </div>
+
+<div style="max-width: 78%;">
 
 <div style="font-size: 0.85em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,5 +48,7 @@ From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of P
 Before coming to Duke, I was a Post-Doctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/) at Vanderbilt University.  I received my PhD in [Political Science](https://politicalscience.stanford.edu/) from Stanford University in 2017.  I also hold an MA in [Economics](https://economics.stanford.edu/) from Stanford University, and BAs in both Economics and Latin American Studies and a minor in Mathematics from [New York University](https://www.nyu.edu/). After completing my undergraduate degrees, I spent three years as a Research Assistant at the [Brookings Institute](https://www.brookings.edu/) in Washington, DC where I worked on topics in financial, transportation, and telecommunications regulation.  
 
 I was born and raised in Seattle, Washington.   
+
+</div>
 
 </div>
