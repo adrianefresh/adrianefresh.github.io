@@ -134,6 +134,23 @@ body {
   width: 100%;
 }
 
+.detail-image.full-width {
+  width: 100%;
+}
+
+.image-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 100%;
+}
+
+.image-row .detail-image {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 .detail-image img {
   width: 100%;
   height: auto;

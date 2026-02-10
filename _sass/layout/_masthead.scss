@@ -104,6 +104,8 @@
   z-index: 1;
   list-style-type: none;
   margin: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .masthead__menu-item:hover .masthead__submenu {
