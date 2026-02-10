@@ -22,6 +22,11 @@ h2.archive__item-title a {
   text-decoration: underline;
 }
 
+h2.archive__item-title a:visited,
+h2.archive__item-title a:link {
+  color: #000 !important;
+}
+
 h2.archive__item-title {
   color: #000 !important;
 }
