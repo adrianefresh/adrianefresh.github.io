@@ -66,6 +66,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  position: relative;
 
   &--lg {
     padding-right: 2em;
@@ -91,4 +92,35 @@
   color: var(--global-text-color);
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
+}
+
+.masthead__submenu {
+  display: none;
+  position: absolute;
+  background-color: var(--global-bg-color);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  list-style-type: none;
+  margin: 0;
+}
+
+.masthead__menu-item:hover .masthead__submenu {
+  display: block;
+}
+
+.masthead__submenu li {
+  padding: 8px 0;
+  white-space: nowrap;
+}
+
+.masthead__submenu a {
+  color: var(--global-text-color);
+  text-decoration: none;
+  display: block;
+  
+  &:hover {
+    opacity: 0.7;
+  }
 }
