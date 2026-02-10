@@ -17,9 +17,13 @@ html body a {
 }
 
 /* Make dataset and other collection title links match text color */
-.archive__item-title a {
-  color: inherit !important;
+h2.archive__item-title a {
+  color: #000 !important;
   text-decoration: underline;
+}
+
+h2.archive__item-title {
+  color: #000 !important;
 }
 
 .list__item .archive__item-excerpt,
