@@ -37,8 +37,8 @@ redirect_from:
   <div>Practical Data Science II <a href="https://www.practicaldatascience.org/ids541_specific/class_schedule_541.html">(IDS541)</a></div>
 </div>
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
-  <div style="flex-shrink: 0; width: 3.5em;"></div>
-  <div><a href="https://polisci.duke.edu/courses/police-prisons-and-politics">POLSCI109 Police, Prisons & Politics</a></div>
+  <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
+  <div>Police, Prisons & Politics <a href="https://polisci.duke.edu/courses/police-prisons-and-politics">(POLSCI109)</a></div>
 </div>
 
 <div style="max-width: 78%;">
