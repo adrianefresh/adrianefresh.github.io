@@ -29,7 +29,7 @@ redirect_from:
 
 <div style="margin-top: 1.5em;"></div>
 
-<h3 style="font-size: 1.2em; font-weight: normal;">Current Term Teaching</h3>
+<h3 style="font-size: 1.2em; font-weight: 400 !important;">Current Term Teaching</h3>
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
