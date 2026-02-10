@@ -21,7 +21,9 @@ main:
     url: /cv/
 
   - title: "Other"
-    url: /art/
+    children:
+      - title: "Art"
+        url: /art/
     
   # - title: "CV"
   #   url: /cv-json/
