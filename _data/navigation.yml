@@ -17,11 +17,11 @@ main:
   - title: "Data"
     url: /data/
 
-  - title: "Other"
-    url: /art/
-   
   - title: "CV"
     url: /cv/
+
+  - title: "Other"
+    url: /art/
     
   # - title: "CV"
   #   url: /cv-json/

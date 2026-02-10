@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Current Affiliations"
+title: "CURRENT AFFILIATIONS"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .page__title {
-  font-size: 1.2em !important;
+  font-size: 0.6em !important;
   font-weight: 300 !important;
 }
 </style>
@@ -30,7 +30,7 @@ redirect_from:
 
 <div style="margin-top: 1.5em;"></div>
 
-<h3 style="font-size: 1.2em; font-weight: 300 !important;">Current Term Teaching</h3>
+<h3 style="font-size: 0.6em; font-weight: 300 !important;">CURRENT TERM TEACHING</h3>
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
