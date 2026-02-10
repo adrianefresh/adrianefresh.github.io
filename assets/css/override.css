@@ -57,6 +57,7 @@ h2.archive__item-title {
 /* Make publication titles bold */
 .archive__item-title a {
   font-weight: bold !important;
+  color: #000 !important;
 }
 
 /* Darken border color by 15% for light theme */

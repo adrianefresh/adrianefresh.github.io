@@ -5,8 +5,6 @@ permalink: /data/
 author_profile: true
 ---
 
-<div style="max-width: 78%;">
-
 <h2>REPLICATION DATASETS</h2><hr />
 
 <p style="font-size: smaller;">For replication datasets and their associated code, please refer to the specific publication on the <a href="/publications/">Research</a> Page.</p>
@@ -24,5 +22,3 @@ author_profile: true
 {% for post in site.datasets reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-</div>

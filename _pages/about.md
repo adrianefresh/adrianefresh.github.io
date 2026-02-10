@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .page__title {
-  font-size: 1.5em !important;
+  font-size: 1.2em !important;
 }
 </style>
 
