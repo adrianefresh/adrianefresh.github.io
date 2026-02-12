@@ -63,11 +63,13 @@ h2.archive__item-title {
 .archive__item-title a {
   font-weight: bold !important;
   color: #000 !important;
+  text-decoration: underline !important;
 }
 
 .archive__item-title a:visited,
 .archive__item-title a:link {
   color: #000 !important;
+  text-decoration: underline !important;
 }
 
 /* Darken border color by 15% for light theme */
@@ -97,5 +99,16 @@ h2.archive__item-title {
 /* Link hover color - teal from profile image */
 a:hover {
   color: #2a8c99 !important;
+}
+
+/* Make collection item links (datasets, etc.) black */
+.archive__item-excerpt a {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+.archive__item-excerpt a:visited,
+.archive__item-excerpt a:link {
+  color: #000 !important;
 }
 
