@@ -10,7 +10,7 @@ html, body {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  background-color: #fff;
+  background-color: #fafbfc;
   color: #000;
   line-height: 1.6;
 }
@@ -40,8 +40,9 @@ body {
 }
 
 .detail-header h1 {
-  font-size: 0.95em;
+  font-size: 1.1em;
   font-weight: 300;
+  letter-spacing: 0.12em;
   margin-bottom: 0.8rem;
 }
 
