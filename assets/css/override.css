@@ -11,6 +11,11 @@ html body a {
   font-family: "Fira Sans", sans-serif !important;
 }
 
+/* Ensure main site has white background (not art page's warm blue) */
+html:not([data-theme="dark"]) body {
+  background-color: #ffffff !important;
+}
+
 /* Reduce text size on publications page */
 .list__item .archive__item-title {
   font-size: 0.85em;
@@ -29,6 +34,21 @@ h2.archive__item-title a:link {
 
 h2.archive__item-title {
   color: #000 !important;
+}
+
+/* Dark mode styling for archive item titles */
+html[data-theme="dark"] h2.archive__item-title a {
+  color: #e4d4c8 !important;
+  text-decoration: underline;
+}
+
+html[data-theme="dark"] h2.archive__item-title a:visited,
+html[data-theme="dark"] h2.archive__item-title a:link {
+  color: #e4d4c8 !important;
+}
+
+html[data-theme="dark"] h2.archive__item-title {
+  color: #e4d4c8 !important;
 }
 
 .list__item .archive__item-excerpt,
@@ -55,7 +75,19 @@ h2.archive__item-title {
 
 /* Prevent wrapping on employer link */
 .author__urls li a {
-  display: inline;
+ 
+
+/* Dark mode styling for publication titles */
+html[data-theme="dark"] .archive__item-title a {
+  color: #e4d4c8 !important;
+  text-decoration: underline !important;
+}
+
+html[data-theme="dark"] .archive__item-title a:visited,
+html[data-theme="dark"] .archive__item-title a:link {
+  color: #e4d4c8 !important;
+  text-decoration: underline !important;
+} display: inline;
   white-space: nowrap;
 }
 
@@ -83,7 +115,18 @@ h2.archive__item-title {
 }
 
 /* Keep office address links in Courier font */
-.author__content a {
+.
+
+/* Dark mode styling for collection item links */
+html[data-theme="dark"] .archive__item-excerpt a {
+  color: #e4d4c8 !important;
+  text-decoration: none;
+}
+
+html[data-theme="dark"] .archive__item-excerpt a:visited,
+html[data-theme="dark"] .archive__item-excerpt a:link {
+  color: #e4d4c8 !important;
+}author__content a {
   font-family: 'Courier New', monospace !important;
 }
 
