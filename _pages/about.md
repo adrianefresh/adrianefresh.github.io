@@ -48,7 +48,7 @@ redirect_from:
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
 
-I study political economy and institutions in Comparative and American Politics. My work explores how elites adapt to transformative economic and institutional change, and how these shifts shape elite survival and power. I draw on cases ranging from the Industrial Revolution in Britain to Black enfranchisement and contemporary election administration in the United States. My research emphasizes quantitative methods, especially causal inference and large-scale text analysis.
+I study political economy and institutions in Comparative and American Politics, with a focus on how elites respond to transformative economic and institutional change and how these responses shape political survival and power. My empirical work spans cases from the Industrial Revolution in Britain to Black enfranchisement and contemporary election administration in the United States. I also pursue meta-scientific research on the architecture of explanation in the social sciences, examining how scholars invoke generative processes and how non-epistemic values—such as aesthetics—influence scientific practice. My work combines historical analysis with quantitative methods, especially causal inference and large-scale text analysis.
 
 From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love. I'm happy to discuss the choice if you'd like to know more.   
 
