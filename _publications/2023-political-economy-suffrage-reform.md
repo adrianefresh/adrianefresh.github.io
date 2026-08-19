@@ -1,7 +1,7 @@
 ---
 title: "The Political Economy of Suffrage Reform: The Great Reform Act of 1832"
 collection: publications
-category: manuscripts
+category: journal_articles
 permalink: /publication/political-economy-suffrage-reform
 excerpt: 'XX'
 date: 2023-01-01

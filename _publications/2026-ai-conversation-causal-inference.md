@@ -1,7 +1,7 @@
 ---
 title: "What is the Causal Effect of a Conversation? Estimands and Inference in AI Mediated Conversations"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/causal-effect-conversation-ai
 excerpt: 'Political scientists increasingly use conversations as treatments. Sometimes these conversations are conducted by humans, but often and increasingly they will be conducted by generative artificial intelligence (AI). AI makes it possible to scale treatments that are responsive, and rich in real-world relevance. But this same interactivity creates specific challenges for causal inference. A respondent may be randomly assigned to a conversational condition, but the conversation that follows is not merely received by the respondent. It is generated jointly by the respondent and the conversational agent and is thus endogenous to who the respondent is.'
 date: 2026-07-03

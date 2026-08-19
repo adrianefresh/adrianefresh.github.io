@@ -1,7 +1,7 @@
 ---
 title: "Enfranchisement and Incarceration After the 1965 Voting Rights Act"
 collection: publications
-category: manuscripts
+category: journal_articles
 permalink: /publication/enfranchisement-incarceration-vra
 excerpt: 'XX'
 date: 2022-01-01

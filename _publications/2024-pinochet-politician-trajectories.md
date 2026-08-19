@@ -1,7 +1,7 @@
 ---
 title: "The Political Legacy of Politician Trajectories During the Pinochet Regime"
 collection: publications
-category: manuscripts
+category: book_chapters
 permalink: /publication/pinochet-politician-trajectories
 excerpt: 'XX'
 date: 2024-01-01

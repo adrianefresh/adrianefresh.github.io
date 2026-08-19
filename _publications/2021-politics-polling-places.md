@@ -1,7 +1,7 @@
 ---
 title: "The Politics of Locating Polling Places: Race and Partisanship in North Carolina Election Administration, 2008-2016"
 collection: publications
-category: manuscripts
+category: journal_articles
 permalink: /publication/politics-polling-places
 excerpt: 'XX'
 date: 2021-01-01

@@ -1,7 +1,7 @@
 ---
 title: "The Early Modern Origins of Political Contestation"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/early-modern-contestation
 excerpt: 'XX'
 date: 2026-01-01

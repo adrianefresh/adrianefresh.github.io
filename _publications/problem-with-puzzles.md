@@ -1,7 +1,7 @@
 ---
 title: "The Problem with Puzzles"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/problem-with-puzzles
 excerpt: 'How should a scientific community allocate its finite capacity for inquiry? The questions researchers ask condition what they can learn about the world. In political science, one widely invoked criterion for question selection is whether a question is motivated by a "puzzle," often understood as an empirical observation that contradicts prevailing expectations. This heuristic can generate important insights, but it also shapes inquiry in ways that are not fully appreciated. I argue that widespread reliance on this criterion creates a form of selection into inquiry.'
 date: 2026-01-01

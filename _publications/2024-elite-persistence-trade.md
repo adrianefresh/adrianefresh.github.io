@@ -1,7 +1,7 @@
 ---
 title: "Elite Persistence in the Era of England's Expanding Overseas Trade"
 collection: publications
-category: manuscripts
+category: journal_articles
 permalink: /publication/elite-persistence-trade
 excerpt: 'XX'
 date: 2024-01-01

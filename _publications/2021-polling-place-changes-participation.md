@@ -1,7 +1,7 @@
 ---
 title: "Polling Place Changes and Political Participation: Evidence from North Carolina Presidential Elections, 2008-2016"
 collection: publications
-category: manuscripts
+category: journal_articles
 permalink: /publication/polling-place-changes-participation
 excerpt: 'XX'
 date: 2021-01-01
