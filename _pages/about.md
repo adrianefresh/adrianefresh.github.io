@@ -17,11 +17,11 @@ redirect_from:
 
 <div style="max-width: 78%;">
 
-<div style="display: flex; gap: 1em; font-size: 0.9em;">
+<div style="display: flex; gap: 1em; font-size: 0.85em;">
   <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
   <div><a href="https://datascience.duke.edu/">Interdisciplinary Data Science Program</a>, <a href="https://ssri.duke.edu/">Social Science Research Institute</a>, Duke University</div>
 </div>
-<div style="display: flex; gap: 1em; font-size: 0.9em;">
+<div style="display: flex; gap: 1em; font-size: 0.85em;">
   <div style="flex-shrink: 0; width: 3.5em;">2019-</div>
   <div><a href="https://polisci.duke.edu/">Department of Political Science</a>, Duke University</div>
 </div>
@@ -32,18 +32,18 @@ redirect_from:
 
 <h3 style="font-size: 1em; font-weight: 400 !important;">CURRENT TERM TEACHING</h3>
 
-<div style="display: flex; gap: 1em; font-size: 0.9em;">
+<div style="display: flex; gap: 1em; font-size: 0.85em;">
   <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
   <div>Practical Data Science I (<a href="https://practicaldatascience.org/ids540_specific/class_schedule_540.html#">IDS541</a>)</div>
 </div>
-<div style="display: flex; gap: 1em; font-size: 0.9em;">
+<div style="display: flex; gap: 1em; font-size: 0.85em;">
   <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
   <div>Scope & Methods (<a href="https://polisci.duke.edu/courses/scope-and-methods-political-science-c-e">POLSCI731</a>)</div>
 </div>
 
 <div style="max-width: 78%;">
 
-<div style="font-size: 0.85em;" markdown="1">
+<div style="font-size: 0.8em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University. I am the Co-Director of the [Social Science Scholars Program](https://ssri.duke.edu/socsci-scholars-program/) (SoSci Scholars) which helps support undergraduate research in the social and behavioral disciplines at Duke.   
