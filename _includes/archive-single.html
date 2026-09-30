@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline" style="font-weight: bold; text-decoration: none;">
+    <h2 class="archive__item-title" itemprop="headline" style="font-weight: 560; text-decoration: none;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
         <span style="text-decoration: none;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: underline;">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: none;">)</span>
@@ -43,12 +43,8 @@
       <p style="margin-top: 0.35em; margin-bottom: 0.2em; font-size: 0.65em;"><em style="font-weight: normal !important; font-style: italic;">{{ post.formertitle }}</em></p>
     {% endif %}
     
-    {% if post.status %}
-      <p style="margin-top: 0.1em; margin-bottom: 0.25em;"><em style="font-weight: bold; font-style: italic;">{{ post.status }}</em></p>
-    {% endif %}
-    
     {% if post.citation %}
-      <p style="margin-top: 0.3em;">{{ post.citation }}
+      <p style="margin-top: 0.3em; font-weight: normal;">{{ post.citation }}
       {% if post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
         <br />
         {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
@@ -94,12 +90,12 @@
       {% if post.collection == 'teaching' or post.collection == 'datasets' %}
         <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.3em; font-size: 0.95em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
       {% elsif site.read_more != 'enabled' %}
-        <details style="margin-top: 1em;">
+        <details style="margin-top: 0.1em;">
           <summary style="cursor: pointer; font-size: 0.75em; line-height: 1.6; display: list-item;">Abstract</summary>
           <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
         </details>
       {% elsif site.read_more == 'enabled' %}
-        <details style="margin-top: 1em;">
+        <details style="margin-top: 0.1em;">
           <summary style="cursor: pointer; font-size: 0.75em; line-height: 1.6; display: list-item;">Abstract</summary>
           <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.5em; line-height: 1.6;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
         </details>
