@@ -7,11 +7,11 @@ excerpt: 'Political scientists increasingly use conversations as treatments. Som
 date: 2026-07-03
 venue: 'Working Paper'
 status: 'Working Paper'
-authors: 'Fresh, Adriane and Shin, Aiden'
+authors: 'Adriane Fresh and Aiden Shin'
 link: 'https://arxiv.org/abs/2607.03597'
 paperurl: 'https://arxiv.org/pdf/2607.03597'
 arxiv: '2607.03597'
-citation: 'Fresh, Adriane and Shin, Aiden. &quot;What is the Causal Effect of a Conversation? Estimands and Inference in AI Mediated Conversations.&quot; Working Paper, arXiv:2607.03597.'
+citation: 'Adriane Fresh and Aiden Shin. &quot;What is the Causal Effect of a Conversation? Estimands and Inference in AI Mediated Conversations.&quot; Working Paper, arXiv:2607.03597.'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & Work in Progress"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -15,12 +15,13 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign is_first = forloop.first %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <div style="margin-top: 3em;"></div>
+        {% unless is_first %}<div style="margin-top: 3em;"></div>{% endunless %}
         <h2>{{ category[1].title | upcase }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
