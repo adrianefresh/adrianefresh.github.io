@@ -34,7 +34,7 @@ redirect_from:
   <a href="#">Download PDF</a> (link coming soon)
 </div>
 
-<div class="cv-content">
+<div class="cv-content" markdown="1">
 
 ### Current Affiliations
 
