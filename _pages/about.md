@@ -19,11 +19,11 @@ redirect_from:
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2025-</div>
-  <div>I[Interdisciplinary Data Science Program](https://datascience.duke.edu/), [Social Science Research Institute] (https://ssri.duke.edu/), Duke University</div>
+  <div><a href="https://datascience.duke.edu/">Interdisciplinary Data Science Program</a>, <a href="https://ssri.duke.edu/">Social Science Research Institute</a>, Duke University</div>
 </div>
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
   <div style="flex-shrink: 0; width: 3.5em;">2019-</div>
-  <div>[Department of Political Science](https://polisci.duke.edu/), Duke University</div>
+  <div><a href="https://polisci.duke.edu/">Department of Political Science</a>, Duke University</div>
 </div>
 
 </div>
@@ -48,9 +48,9 @@ redirect_from:
 
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
 
-I study political economy and institutions in Comparative and American Politics, with a focus on how elites respond to transformative economic and institutional change and how these responses shape political survival and power. My empirical work spans cases from the Industrial Revolution in Britain to Black enfranchisement and contemporary election administration in the United States. I also pursue meta-scientific research on the architecture of explanation in the social sciences, examining how scholars invoke generative processes and how non-epistemic values—such as aesthetics—influence scientific practice. My work combines historical analysis with quantitative methods, especially causal inference and large-scale text analysis.
+I study political economy and institutions in Comparative and American Politics, with a focus on how elites respond to transformative economic and institutional change, and how these responses shape their persistence and power. My empirical work spans cases from the Industrial Revolution in Britain to Black enfranchisement and contemporary election administration in the United States. I also pursue meta-scientific research on the architecture of meaning and explanation in the social sciences, examining how scholars invoke mechanistic processes and how non-epistemic values—such as expectations and aesthetics—influence scientific practice. My work is multi-method: I combine archival research and historical analysis with quantitative and computational methods, including causal inference, natural language processing (NLP) and machine vision.
 
-From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love. There's nothing salacious here---just a personal journey.  I'm happy to discuss the choice if you'd like to know more.   
+From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love. There's no juicy backstory-just a choice that made sense for me. I'm happy to discuss it if you'd like to know more.    
 
 Before coming to Duke, I was a Post-Doctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/) at Vanderbilt University.  I received my PhD in [Political Science](https://politicalscience.stanford.edu/) from Stanford University in 2017.  I also hold an MA in [Economics](https://economics.stanford.edu/) from Stanford University, and BAs in both Economics and Latin American Studies and a minor in Mathematics from [New York University](https://www.nyu.edu/). After completing my undergraduate degrees, I spent three years as a Research Assistant at the [Brookings Institute](https://www.brookings.edu/) in Washington, DC where I worked on topics in financial, transportation, and telecommunications regulation.  
 
