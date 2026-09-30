@@ -46,7 +46,7 @@ redirect_from:
 <div style="font-size: 0.85em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University.  
+I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University. I am the Co-Director of the [Social Science Scholars Program](https://ssri.duke.edu/socsci-scholars-program/) (SoSci Scholars) which helps support undergraduate research in the social and behavioral disciplines at Duke.   
 
 I study political economy and institutions in Comparative and American Politics, with a focus on how elites respond to transformative economic and institutional change, and how these responses shape their persistence and power. My empirical work spans cases from the Industrial Revolution in Britain to Black enfranchisement and contemporary election administration in the United States. I also pursue meta-scientific research on the architecture of meaning and explanation in the social sciences, examining how scholars invoke mechanistic processes and how non-epistemic values—such as expectations and aesthetics—influence scientific practice. My work is multi-method: I combine archival research and historical analysis with quantitative and computational methods, including causal inference, natural language processing (NLP) and machine vision.
 
