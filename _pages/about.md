@@ -33,11 +33,11 @@ redirect_from:
 <h3 style="font-size: 1em; font-weight: 400 !important;">CURRENT TERM TEACHING</h3>
 
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
-  <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
+  <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
   <div>Practical Data Science I (<a href="https://practicaldatascience.org/ids540_specific/class_schedule_540.html#">IDS541</a>)</div>
 </div>
 <div style="display: flex; gap: 1em; font-size: 0.9em;">
-  <div style="flex-shrink: 0; width: 3.5em;">S2026</div>
+  <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
   <div>Scope & Methods (<a href="https://polisci.duke.edu/courses/scope-and-methods-political-science-c-e">POLSCI731</a>)</div>
 </div>
 
