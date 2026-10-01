@@ -1,6 +1,10 @@
 {% include base_path %}
 
 <style>
+  a.archive__item-title-link {
+    color: #000;
+  }
+  
   a.archive__item-title-link:hover {
     color: #1f5460 !important;
   }
@@ -35,11 +39,11 @@
     <h2 class="archive__item-title" itemprop="headline" style="font-size: 0.8em; font-weight: 400 !important; text-decoration: none;">
       {% if post.collection == 'teaching' and post.course_url %}
         {% assign title_parts = title | split: '(' %}
-        <span style="text-decoration: none;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: underline; font-weight: 400 !important; color: #000 !important;" class="archive__item-title-link">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: none;">)</span>
+        <span style="text-decoration: none;">{{ title_parts[0] }}(</span><a href="{{ post.course_url }}" style="text-decoration: underline; font-weight: 400 !important;" class="archive__item-title-link">{{ title_parts[1] | remove: ')' | strip }}</a><span style="text-decoration: none;">)</span>
       {% elsif post.link %}
-        <a href="{{ post.link }}" style="color: #000 !important; text-decoration: none; font-weight: 400 !important;" class="archive__item-title-link">{{ title }}</a>
+        <a href="{{ post.link }}" style="text-decoration: none; font-weight: 400 !important;" class="archive__item-title-link">{{ title }}</a>
       {% elsif post.url %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #000 !important; text-decoration: none; font-weight: 400 !important;" class="archive__item-title-link">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; font-weight: 400 !important;" class="archive__item-title-link">{{ title }}</a>
       {% else %}
         {{ title }}
       {% endif %}

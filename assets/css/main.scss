@@ -43,7 +43,7 @@ p, li, a {
   font-weight: 300;
 }
 
-/* === PAPER TITLE LINKS - HOVER ONLY === */
+/* === PAPER TITLE LINKS === */
 .archive__item-title-link {
   color: #000 !important;
   font-weight: 400 !important;
@@ -59,15 +59,6 @@ p, li, a {
 h2.archive__item-title a.archive__item-title-link:hover {
   color: #1f5460 !important;
   text-decoration: none !important;
-}
-
-/* Even more specific rules to override inline styles on hover */
-h2.archive__item-title a[href].archive__item-title-link:hover {
-  color: #1f5460 !important;
-}
-
-a.archive__item-title-link[style*="color"]:hover {
-  color: #1f5460 !important;
 }
 
 /* === REMOVE BORDERS FROM DETAILS/ABSTRACT === */
