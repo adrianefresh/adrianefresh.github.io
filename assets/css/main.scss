@@ -43,3 +43,12 @@ p, li, a {
   font-weight: 300;
 }
 
+/* === PAPER TITLE LINKS - HOVER ONLY === */
+.archive__item-title-link {
+  color: #000 !important;
+}
+
+.archive__item-title-link:hover {
+  color: #228B22 !important;
+}
+
