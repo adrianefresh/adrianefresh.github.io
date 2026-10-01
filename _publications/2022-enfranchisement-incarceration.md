@@ -15,6 +15,7 @@ publishedarticleurl: 'https://www.doi.org/10.1017/S0003055421001337'
 paperurl: 'https://www.dropbox.com/s/aazmv4wskvse9y6/EubankFresh_Incarceration.pdf?dl=0'
 replicationurl: 'https://adrianefresh.com/research'
 mediaurl: 'https://www.washingtonpost.com/politics/2022/11/11/vra-section-5-new-jim-crow/'
+medianame: 'WaPost Monkey Cage'
 citation: 'Adriane Fresh and Nick Eubank. &quot;Enfranchisement and Incarceration After the 1965 Voting Rights Act.&quot; <i>American Political Science Review</i>, Vol. 116, No. 3, 2022.'
 ---
 
