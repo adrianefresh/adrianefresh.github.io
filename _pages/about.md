@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .page__title {
-  font-size: 1em !important;
+  font-size: 0.9em !important;
   font-weight: 300 !important;
 }
 </style>
@@ -30,7 +30,7 @@ redirect_from:
 
 <div style="margin-top: 1.5em;"></div>
 
-<h3 style="font-size: 1em; font-weight: 300 !important;">CURRENT TERM TEACHING</h3>
+<h3 style="font-size: 0.9em; font-weight: 300 !important;">CURRENT TERM TEACHING</h3>
 
 <div style="display: flex; gap: 1em; font-size: 0.80em;">
   <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
