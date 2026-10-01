@@ -14,7 +14,7 @@ publishedarticleurl: 'https://www.cambridge.org/core/journals/journal-of-race-et
 doi: '10.1017/rep.2024.26'
 appendixurl: 'https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/racial-geography-of-us-public-opinion-at-the-punitive-turn/BFC64AE861EDFBDA9AEC5EE0C6786CF5#supplementary-materials'
 mediaurl: 'https://blogs.lse.ac.uk/usappblog/2025/04/10/white-people-in-the-us-south-led-the-mid-20th-century-increase-in-pro-punishment-attitudes/'
-citation: 'Fresh, Adriane. &quot;The Racial Geography of U.S. Public Opinion at the Punitive Turn.&quot; <i>Journal of Race, Ethnicity and Politics</i>, Vol. 10, No. 2, 2025.'
+citation: 'Adriane Fresh. &quot;The Racial Geography of U.S. Public Opinion at the Punitive Turn.&quot; <i>Journal of Race, Ethnicity and Politics</i>, Vol. 10, No. 2, 2025.'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">

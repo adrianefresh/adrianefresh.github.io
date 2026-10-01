@@ -14,7 +14,7 @@ publishedarticleurl: 'https://www.journals.uchicago.edu/doi/10.1086/697592'
 paperurl: 'https://www.dropbox.com/scl/fi/rah2uchc0kqriiely87oe/Fresh_VRA.pdf?rlkey=xtr4fvlsb7nhltflrycds9vyr&e=1&dl=0'
 appendixurl: 'https://www.dropbox.com/scl/fi/5lsm7cx9b3nzgmd66pkcf/Fresh_VRA_Online_Appendix.pdf?rlkey=o85limuzzx9bcvbwqv3iyxtbh&e=1&dl=0'
 replicationurl: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4G2DBT'
-citation: 'Fresh, Adriane. (2018). &quot;The Effect of Section 5 on Enfranchisement: Evidence From North Carolina.&quot; <i>Journal of Politics</i>, Vol. 80, No. 2.'
+citation: 'Adriane Fresh. (2018). &quot;The Effect of Section 5 on Enfranchisement: Evidence From North Carolina.&quot; <i>Journal of Politics</i>, Vol. 80, No. 2.'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">

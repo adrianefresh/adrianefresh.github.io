@@ -8,7 +8,7 @@ date: 2026-01-01
 venue: 'Working Paper'
 status: 'Working Paper'
 link: 'XX'
-citation: 'Fresh, Adriane. &quot;The Problem with Puzzles.&quot; Working Paper.'
+citation: 'Adriane Fresh. &quot;The Problem with Puzzles.&quot; Working Paper.'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">

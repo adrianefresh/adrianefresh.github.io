@@ -8,7 +8,7 @@ date: 2026-01-01
 status: 'Working Paper'
 link: 'https://adrianefresh.com/research'
 paperurl: 'XX'
-citation: 'Fresh, Adriane. &quot;The Early Modern Origins of Political Contestation.&quot; Working Paper.'
+citation: 'Adriane Fresh. &quot;The Early Modern Origins of Political Contestation.&quot; Working Paper.'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">

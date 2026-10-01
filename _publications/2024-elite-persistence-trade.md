@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'Comparative Political Studies'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721401'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721401'
-citation: 'Fresh, Adriane. &quot;Elite Persistence in the Era of Britain&rsquo;s Expanding Overseas Trade.&quot; <i>Comparative Political Studies</i> (2025).'
+citation: 'Adriane Fresh. &quot;Elite Persistence in the Era of Britain&rsquo;s Expanding Overseas Trade.&quot; <i>Comparative Political Studies</i> (2025).'
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">
