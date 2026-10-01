@@ -61,6 +61,18 @@ h2.archive__item-title a.archive__item-title-link:hover {
   text-decoration: none !important;
 }
 
+/* Style for dataset titles with embedded markdown links */
+h2.archive__item-title a {
+  color: #000 !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+}
+
+h2.archive__item-title a:hover {
+  color: #2f7f93 !important;
+  text-decoration: none !important;
+}
+
 /* === REMOVE BORDERS FROM DETAILS/ABSTRACT === */
 details {
   border: none !important;
