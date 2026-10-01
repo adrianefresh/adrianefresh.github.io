@@ -47,10 +47,12 @@ p, li, a {
 .archive__item-title-link {
   color: #000 !important;
   font-weight: 350 !important;
+  text-decoration: none !important;
 }
 
 .archive__item-title-link:hover {
   color: #2f7f93 !important;
+  text-decoration: none !important;
 }
 
 /* === REMOVE BORDERS FROM DETAILS/ABSTRACT === */
