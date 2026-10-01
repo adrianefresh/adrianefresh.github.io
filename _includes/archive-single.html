@@ -84,6 +84,10 @@
       </p>
     {% endif %}
     
+    {% if post.mediaurl %}
+      <p style="margin-top: 0.3em; margin-bottom: 0em; font-size: 0.75em;">Media: <a href="{{ post.mediaurl }}" style="color: #1f5460;">{% if post.medianame %}{{ post.medianame }}{% else %}Media{% endif %}</a></p>
+    {% endif %}
+    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
