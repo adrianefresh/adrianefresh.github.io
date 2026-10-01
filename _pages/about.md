@@ -43,7 +43,7 @@ redirect_from:
 
 <div style="max-width: 78%;">
 
-<div style="height: 4.75em;"></div>
+<div style="height: 4.65em;"></div>
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; border: none; padding-bottom: 0;">ABOUT ME</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
