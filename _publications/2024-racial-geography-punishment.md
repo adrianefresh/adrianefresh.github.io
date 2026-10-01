@@ -1,7 +1,7 @@
 ---
 title: "The Racial Geography of U.S. Public Opinion at the Punitive Turn"
 collection: publications
-category: journal_articles
+category: publications
 permalink: /publication/racial-geography-punishment
 excerpt: 'A large literature considers the mid-century a key turning point in punitive public opinion in the United States. This article examines racial and geographic heterogeneity in changing public opinion during the mid-century using data on death penalty support from as early as 1953. I find that the punitive turn is characterized by divergence in death penalty support between Black and White people, and that White Southerners grew more supportive than Whites in the non-South from before to after the turn.'
 date: 2025-07-01
