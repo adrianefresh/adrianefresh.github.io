@@ -55,6 +55,12 @@ p, li, a {
   text-decoration: none !important;
 }
 
+/* More specific rule for h2 title links */
+h2.archive__item-title a.archive__item-title-link:hover {
+  color: #2f7f93 !important;
+  text-decoration: none !important;
+}
+
 /* === REMOVE BORDERS FROM DETAILS/ABSTRACT === */
 details {
   border: none !important;
