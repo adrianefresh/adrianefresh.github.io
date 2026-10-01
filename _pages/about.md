@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__title {
+  font-size: 1em !important;
+  font-weight: 400 !important;
+}
+</style>
+
 <div style="max-width: 78%;">
 
 <div style="display: flex; gap: 1em; font-size: 0.85em;">
