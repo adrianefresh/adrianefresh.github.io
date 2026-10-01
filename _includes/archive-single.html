@@ -44,7 +44,7 @@
     {% endif %}
     
     {% if post.citation %}
-      <p style="margin-top: 0.3em; margin-bottom: 0em; font-weight: normal;">{{ post.citation }}
+      <p style="margin-top: 0.3em; margin-bottom: 0em; font-weight: 300;">{{ post.citation }}
       {% if post.publishedarticleurl or post.paperurl or post.slidesurl or post.appendixurl or post.replicationurl or post.bibtexurl or post.drafturl %}
         <br />
         {% if post.publishedarticleurl %}<a href="{{ post.publishedarticleurl }}">Published Article</a>{% endif %}
@@ -81,8 +81,7 @@
             <p style="margin-top: 0; margin-bottom: 0.2em;">{{ post.term | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           {% endif %}
           <p style="margin-top: 0; margin-bottom: 0.15em;">
-            {% if post.syllabus_url %}<a href="{{ post.syllabus_url }}">{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}</a>{% else %}{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}{% endif %} | 
-            {% if post.materials_url %}<a href="{{ post.materials_url }}">Course Materials</a>{% else %}Course Materials{% endif %}
+            {% if post.materials_url %}<a href="{{ post.materials_url }}">Syllabi & Course Materials</a>{% elsif post.syllabus_url %}<a href="{{ post.syllabus_url }}">{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}</a>{% else %}{% if post.syllabi_plural %}Syllabi{% else %}Syllabus{% endif %}{% endif %}
           </p>
         {% endif %}
 
