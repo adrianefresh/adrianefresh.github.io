@@ -41,6 +41,9 @@
     
     {% if post.formertitle %}
       <p style="margin-top: 0.35em; margin-bottom: 0.2em; font-size: 0.65em;"><em style="font-weight: 300 !important; font-style: italic;">{{ post.formertitle }}</em></p>
+      {% if post.formertitle_citation %}
+        <p style="margin-top: 0; margin-bottom: 0em; font-size: 0.65em;">{{ post.formertitle_citation }}</p>
+      {% endif %}
     {% endif %}
     
     {% if post.citation %}
