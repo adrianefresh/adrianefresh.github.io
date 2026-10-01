@@ -44,7 +44,7 @@ redirect_from:
 <div style="max-width: 78%;">
 
 <div style="height: 4.75em;"></div>
-<h2 style="font-size: 0.9em; font-weight: 600; margin-top: 0; border: none; padding-bottom: 0;">ABOUT ME</h2>
+<h2 style="font-size: 0.9em; font-weight: 500; margin-top: 0; border: none; padding-bottom: 0;">ABOUT ME</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
 I am Assistant Research Professor in the [Interdisciplinary Data Science Program](https://datascience.duke.edu/) and the [Department of Political Science](https://polisci.duke.edu/) at Duke University. I am the Co-Director of the [Social Science Scholars Program](https://ssri.duke.edu/socsci-scholars-program/) (SoSci Scholars) which helps support undergraduate research in the social and behavioral disciplines at Duke.   
@@ -53,7 +53,7 @@ From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of P
 </div>
 
 <div style="height: 1.5em;"></div>
-<h2 style="font-size: 0.9em; font-weight: 600; margin-top: 0; border: none; padding-bottom: 0;">RESEARCH INTERESTS</h2>
+<h2 style="font-size: 0.9em; font-weight: 500; margin-top: 0; border: none; padding-bottom: 0;">RESEARCH INTERESTS</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
 I study how **elites respond when economic arrangements and institutions** change---and how those responses shape who retains power. My research spans the Industrial Revolution in Britain, the enfranchisement of minority groups in the United States, and contemporary election administration. Across these settings, I'm interested in how political and economic change can transform some arrangements while leaving others remarkably durable.
@@ -62,7 +62,7 @@ I'm also interested in the **practice of social science** itself. What does it m
 </div>
 
 <div style="height: 1.5em;"></div>
-<h2 style="font-size: 0.9em; font-weight: 600; margin-top: 0; border: none; padding-bottom: 0;">EDUCATION & EXPERIENCE</h2>
+<h2 style="font-size: 0.9em; font-weight: 500; margin-top: 0; border: none; padding-bottom: 0;">EDUCATION & EXPERIENCE</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
 Before coming to Duke, I was a Post-Doctoral Fellow at the [Center for the Study of Democratic Institutions](https://www.vanderbilt.edu/csdi/) at Vanderbilt University.  I received my PhD in [Political Science](https://politicalscience.stanford.edu/) from Stanford University in 2017.  I also hold an MA in [Economics](https://economics.stanford.edu/) from Stanford University, and BAs in both Economics and Latin American Studies and a minor in Mathematics from [New York University](https://www.nyu.edu/). After completing my undergraduate degrees, I spent three years as a Research Assistant at the [Brookings Institute](https://www.brookings.edu/) in Washington, DC where I worked on topics in financial, transportation, and telecommunications regulation.  
