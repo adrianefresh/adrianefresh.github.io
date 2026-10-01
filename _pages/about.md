@@ -11,7 +11,7 @@ redirect_from:
 <style>
 .page__title {
   font-size: 0.9em !important;
-  font-weight: 300 !important;
+  font-weight: 400 !important;
 }
 </style>
 
@@ -30,7 +30,7 @@ redirect_from:
 
 <div style="margin-top: 1.5em;"></div>
 
-<h3 style="font-size: 0.9em; font-weight: 300 !important;">CURRENT TERM TEACHING</h3>
+<h3 style="font-size: 0.9em; font-weight: 400 !important;">CURRENT TERM TEACHING</h3>
 
 <div style="display: flex; gap: 1em; font-size: 0.80em;">
   <div style="flex-shrink: 0; width: 3.5em;">F2026</div>
@@ -43,7 +43,7 @@ redirect_from:
 
 <div style="max-width: 78%;">
 
-<div style="height: 4.65em;"></div>
+<div style="height: 4.7em;"></div>
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; border: none; padding-bottom: 0;">ABOUT ME</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
