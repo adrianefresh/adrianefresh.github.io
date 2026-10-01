@@ -46,9 +46,7 @@ redirect_from:
 <div style="font-size: 0.8em;" markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<div style="margin-top: 1.5em;"></div>
-
-<div style="margin-top: 1.5em;"></div>
+<br /><br /><br />
 
 <h2 style="font-size: 1.1em; font-weight: 350; margin-top: 1.2em; border: none; padding-bottom: 0;">ABOUT ME</h2>
 
@@ -56,9 +54,7 @@ I am Assistant Research Professor in the [Interdisciplinary Data Science Program
 
 From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of Political Science](https://polisci.duke.edu/) at Duke.  I chose to leave the tenure track to cultivate more work-life balance, while still pursuing the academic work that I love. There's no juicy backstory—just a choice that made sense for me. I'm happy to discuss it if you'd like to know more.
 
-<div style="margin-top: 1.5em;"></div>
-
-<div style="margin-top: 1.5em;"></div>
+<br /><br /><br />
 
 <h2 style="font-size: 1.1em; font-weight: 350; margin-top: 1.2em; margin-bottom: 0.8em; border: none; padding-bottom: 0;">RESEARCH INTERESTS</h2>
 
@@ -66,9 +62,7 @@ I study how **elites respond when economic arrangements and institutions** chang
 
 I'm also interested in the **practice of social science** itself. What does it mean to explain how something happens? And how do our expectations and sense of what makes a compelling finding shape the knowledge we produce? These questions anchor my work on mechanisms, meaning, and values in scientific practice.  My methods range from archival research and historical analysis to quantitative and computational tools, including natural language processing and machine vision.
 
-<div style="margin-top: 1.5em;"></div>
-
-<div style="margin-top: 1.5em;"></div>
+<br /><br /><br />
 
 <h2 style="font-size: 1.1em; font-weight: 350; margin-top: 1.2em; border: none; padding-bottom: 0;">EDUCATION & EXPERIENCE</h2>
 
