@@ -103,7 +103,12 @@
         {% endif %}
 
     {% if post.excerpt %}
-      {% if post.collection == 'teaching' or post.collection == 'datasets' %}
+      {% if post.collection == 'teaching' %}
+        <details style="margin-top: 0.15em;">
+          <summary style="cursor: pointer; font-size: 0.75em; line-height: 1.6; display: list-item;">Description</summary>
+          <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.95em; line-height: 1.6; margin-top: 0.2em;">{{ post.excerpt | markdownify }}</p>
+        </details>
+      {% elsif post.collection == 'datasets' %}
         <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0.15em; font-size: 0.95em; line-height: 1.6;">{{ post.excerpt | markdownify }}</p>
       {% elsif site.read_more != 'enabled' %}
         <details style="margin-top: 0;">
