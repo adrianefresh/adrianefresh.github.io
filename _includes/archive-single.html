@@ -84,7 +84,14 @@
       </p>
     {% endif %}
     
-    {% if post.mediaurl %}
+    {% if post.mediaurl1 or post.mediaurl2 or post.mediaurl3 or post.mediaurl4 %}
+      <p style="margin-top: 0; margin-bottom: 0em; font-size: 0.75em;">Media: 
+        {% if post.mediaurl1 %}<a href="{{ post.mediaurl1 }}" style="color: #2f7f93 !important;">{% if post.medianame1 %}{{ post.medianame1 }}{% else %}Media{% endif %}</a>{% endif %}
+        {% if post.mediaurl2 %}<span style="color: #999;">, </span><a href="{{ post.mediaurl2 }}" style="color: #2f7f93 !important;">{% if post.medianame2 %}{{ post.medianame2 }}{% else %}Media{% endif %}</a>{% endif %}
+        {% if post.mediaurl3 %}<span style="color: #999;">, </span><a href="{{ post.mediaurl3 }}" style="color: #2f7f93 !important;">{% if post.medianame3 %}{{ post.medianame3 }}{% else %}Media{% endif %}</a>{% endif %}
+        {% if post.mediaurl4 %}<span style="color: #999;">, </span><a href="{{ post.mediaurl4 }}" style="color: #2f7f93 !important;">{% if post.medianame4 %}{{ post.medianame4 }}{% else %}Media{% endif %}</a>{% endif %}
+      </p>
+    {% elsif post.mediaurl %}
       <p style="margin-top: 0; margin-bottom: 0em; font-size: 0.75em;">Media: <a href="{{ post.mediaurl }}" style="color: #2f7f93 !important;">{% if post.medianame %}{{ post.medianame }}{% else %}Media{% endif %}</a></p>
     {% endif %}
     
