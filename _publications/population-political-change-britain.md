@@ -8,5 +8,6 @@ date: 2026-01-02
 status: 'Under Review'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734362'
 drafturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734362'
+citation: 'Adriane Fresh. &quot;Population and Political Change in Industrial Britain.&quot; Working Paper.'
 ---
 
