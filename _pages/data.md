@@ -10,6 +10,20 @@ h2.data-section {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+h2.archive__item-title {
+  font-size: 0.8em !important;
+  font-weight: 400 !important;
+  text-decoration: none;
+}
+
+a.archive__item-title-link {
+  color: #000 !important;
+}
+
+a.archive__item-title-link:hover {
+  color: #2f7f93 !important;
+}
 </style>
 
 <div style="max-width: 78%;">
