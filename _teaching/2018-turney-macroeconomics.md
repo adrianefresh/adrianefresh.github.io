@@ -7,5 +7,6 @@ venue: "Turney Industrial Complex, Tennessee"
 date: 2018-01-01
 term: "2018, 2019"
 institution_url: "https://www.thei.org/"
+course_url: "/files/teaching/macroeconomics"
 excerpt: "XX"
 ---
