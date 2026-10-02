@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
   h3 {
-    font-size: 0.95em;
+    font-size: 0.85em;
     font-weight: 700;
     margin-top: 1.5em;
     margin-bottom: 0.8em;
@@ -36,10 +36,16 @@ redirect_from:
 
 <div class="cv-content" markdown="1">
 
+<div style="height: 1.5em;"></div>
+
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">CURRENT AFFILIATIONS</h2><hr />
 
 Assistant Research Professor (non-TT), Interdisciplinary Data Science Program, Social Science Research Institute, Duke University (2025–present), with secondary appointment in Department of Political Science
 
+
+<div style="height: 1.5em;"></div>
+
+<div style="height: 1.5em;"></div>
 
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">PREVIOUS ACADEMIC APPOINTMENTS</h2><hr />
 
