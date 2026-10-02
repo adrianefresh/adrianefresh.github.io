@@ -1,7 +1,7 @@
 ---
 title: "Elite Persistence in the Era of England's Expanding Overseas Trade"
 collection: publications
-category: published_articles
+category: publications
 permalink: /publication/2025-elite-persistence-overseas-trade
 venue: "Comparative Political Studies"
 date: 2025-01-01
