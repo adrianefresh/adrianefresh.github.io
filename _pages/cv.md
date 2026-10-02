@@ -31,16 +31,18 @@ redirect_from:
 </style>
 
 <div class="pdf-link">
-  <a href="#">Download PDF</a> (link coming soon)
+  You can download a copy of my CV here: <a href="#">Download PDF</a>
 </div>
 
 <div class="cv-content" markdown="1">
 
-### Current Affiliations
+<h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">CURRENT AFFILIATIONS</h2><hr />
 
 Assistant Research Professor (non-TT), Interdisciplinary Data Science Program, Social Science Research Institute, Duke University (2025–present), with secondary appointment in Department of Political Science
 
-### Previous Academic Appointments
+
+<h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">PREVIOUS ACADEMIC APPOINTMENTS</h2><hr />
+
 
 Assistant Professor (TT), Department of Political Science, Duke University (2019–2025)
 
