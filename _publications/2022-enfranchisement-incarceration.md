@@ -23,5 +23,16 @@ citation: 'Adriane Fresh and Nick Eubank. &quot;Enfranchisement and Incarceratio
 ---
 
 <div style="font-size: 0.9em; line-height: 1.6; color: #555;">
-The 1965 Voting Rights Act (VRA) fundamentally changed the distribution of electoral power in the US South. We examine the consequences of this mass enfranchisement of Black people for the use of the carceral state—public and police—post-VRA. Did mass enfranchisement lead to increases in incarceration of Black people? We test this with new historical data on state and county prison intake data by race (1930–1985) in a series of difference-in-differences designs. We find that Section 5 of the VRA increased incarceration systematically in proportion to the electoral threat posed by Black voters. Our findings are robust to several tests of validity and temporal policy comparisons.
+The 1965 Voting Rights Act (VRA) fundamentally changed the distribution of electoral
+power in the US South. We examine the consequences of this mass enfranchisement of
+Black people for the use of the carceral state—police, the courts, and the prison system.
+We study the extent to which White communities in the US South responded to the end
+of Jim Crow by increasing the incarceration of Black citizens. We test this with new
+historical data on state and county prison intake data by race (∼1940-1985) in a series
+of diﬀerence-in-diﬀerences designs. We find that states covered by Section 5 of the VRA
+experienced a diﬀerential increase in Black prison admissions relative to those that were
+not covered, and that incarceration varied systematically in proportion to the electoral
+threat posed by Black voters. Our findings indicate the potentially perverse consequences
+of enfranchisement when establishment power seeks—and finds—other outlets of social
+and political control.
 </div>
