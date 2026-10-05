@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomics"
 collection: teaching
-type: "Prison University Program"
+type: "Undergraduate Course"
 venue: "Turney Industrial Complex, Tennessee"
 date: 2018-01-01
 term: "2018, 2019"
