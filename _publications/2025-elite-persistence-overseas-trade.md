@@ -6,7 +6,7 @@ permalink: /publication/2025-elite-persistence-overseas-trade
 venue: "Comparative Political Studies"
 date: 2025-01-01
 link: 'https://journals.sagepub.com/doi/10.1177/00104140251381757'
-paperurl: 'https://journals.sagepub.com/doi/10.1177/00104140251381757'
+paperurl: 'https://github.com/adrianefresh/adrianefresh.github.io/blob/master/files/papers/Fresh_OverseasTrade.pdf'
 publishedarticleurl: 'https://journals.sagepub.com/doi/10.1177/00104140251381757'
 publishedarticlelabel: 'Published Paper'
 appendixurl: 'https://journals.sagepub.com/doi/10.1177/00104140251381757'
