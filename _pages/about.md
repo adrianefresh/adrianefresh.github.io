@@ -56,9 +56,9 @@ From 2019-2025, I was Assistant Professor (Tenure Track) in the [Department of P
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; border: none; padding-bottom: 0;">RESEARCH INTERESTS</h2>
 
 <div style="font-size: 0.8em;" markdown="1">
-I study how **elites respond when economic arrangements and institutions** change---and how those responses shape who retains power. My research spans the Industrial Revolution in Britain, the enfranchisement of minority groups in the United States, and contemporary election administration. Across these settings, I'm interested in how political and economic change can transform some arrangements while leaving others remarkably durable.
+I study how **elites respond when economic arrangements and institutions change**---and how those responses shape who retains power. My research spans the **Industrial Revolution** in Britain, the **enfranchisement of minority groups** in the United States, and contemporary **election administration**. Across these settings, I'm interested in how political and economic change can transform some arrangements of power while leaving others remarkably durable.
 
-I'm also interested in the **practice of social science** itself. What does it mean to explain how something happens? And how do our expectations and sense of what makes a compelling finding shape the knowledge we produce? These questions anchor my work on mechanisms, meaning, and values in scientific practice.  Across my research projects, my methods range from archival research and historical analysis to quantitative and computational tools, including natural language processing and machine vision.
+I'm also interested in the **practice of social science** itself. What does it mean to explain how something happens? And how do our expectations and sense of what makes a compelling finding shape the knowledge we produce? These questions anchor my work on **mechanisms**, **meaning**, and **values in scientific practice**.  Across my research projects, my methods range from archival research and historical analysis to quantitative and computational tools, including natural language processing and machine vision.
 </div>
 
 <div style="height: 1.5em;"></div>
