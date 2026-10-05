@@ -3,11 +3,11 @@ title: "Honors Research Design (POLISCI299A)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/stanford-honors-research-design
-venue: "Stanford University, Department of Political Science"
+venue: "Stanford University"
 date: 2017-01-01
 term: "S2017"
 course_url: "https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=POLISCI299A&collapse="
-syllabus_url: "hhttps://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/honors_research_design"
+syllabus_url: "https://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/honors_research_design"
 materials_url: "https://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/honors_research_design"
 syllabi_plural: false
 role: "Instructor"
