@@ -7,7 +7,6 @@ excerpt: 'How should a scientific community allocate its finite capacity for inq
 date: 2026-01-01
 venue: 'Working Paper'
 status: 'Working Paper'
-link: 'XX'
 citation: 'Adriane Fresh. &quot;The Problem with Puzzles.&quot; Working Paper.'
 ---
 

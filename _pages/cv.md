@@ -11,6 +11,14 @@ redirect_from:
   #main .archive > h1.page__title {
     font-size: 0.9em !important;
     font-weight: 400 !important;
+    max-width: 78%;
+  }
+
+  #main .archive > h1.page__title::after {
+    content: "";
+    display: block;
+    margin: 1em 0;
+    border-top: 1px solid var(--global-border-color);
   }
 
   h3 {
