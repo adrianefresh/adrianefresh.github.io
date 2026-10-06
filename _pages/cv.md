@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 <style>
+  #main .archive > h1.page__title {
+    font-size: 0.9em !important;
+    font-weight: 400 !important;
+  }
+
   h3 {
     font-size: 0.85em;
     font-weight: 700;
@@ -16,8 +21,9 @@ redirect_from:
   }
   
   .cv-content {
-    font-size: 0.85em;
+    font-size: 0.8em;
     line-height: 1.6;
+    max-width: 78%;
   }
   
   .cv-content p {
@@ -25,8 +31,9 @@ redirect_from:
   }
   
   .pdf-link {
-    font-size: 0.85em;
+    font-size: 0.8em;
     margin-bottom: 2em;
+    max-width: 78%;
   }
 </style>
 
@@ -40,7 +47,9 @@ redirect_from:
 
 <h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">CURRENT AFFILIATIONS</h2><hr />
 
-Assistant Research Professor (non-TT), Interdisciplinary Data Science Program, Social Science Research Institute, Duke University (2025–present), with secondary appointment in Department of Political Science
+Assistant Research Professor (non-TT), Interdisciplinary Data Science Program, Social Science Research Institute, Duke University (2025–present)
+
+Secondary appointment in the Department of Political Science, Duke University
 
 
 <div style="height: 1.5em;"></div>
