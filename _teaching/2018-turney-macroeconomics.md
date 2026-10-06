@@ -5,7 +5,7 @@ collection: teaching
 type: "Undergraduate Course"
 venue: "Nashville State Community College, Turney Prison"
 date: 2018-01-01
-term: "S2018, S2019"
+term: "S2019, S2018"
 institution_url: "https://www.thei.org/"
 syllabus_url: "https://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/macroeconomics"
 materials_url: "https://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/macroeconomics"

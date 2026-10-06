@@ -6,7 +6,7 @@ type: "Undergraduate Course"
 permalink: /teaching/san-quentin-programs
 venue: "San Quentin State Prison, California"
 date: 2014-01-01
-term: "2013, 2014"
+term: "F2014, F2013"
 syllabi_plural: true
 role: "Instructor"
 syllabus_url: "https://github.com/adrianefresh/adrianefresh.github.io/tree/master/files/teaching/interdisciplinary_research"
