@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -45,7 +45,7 @@ redirect_from:
 
 <div style="height: 1.5em;"></div>
 
-<h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">CURRENT AFFILIATIONS</h2><hr />
+<h2 style="font-size: 1.125em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">CURRENT AFFILIATIONS</h2><hr />
 
 Assistant Research Professor (non-TT), Interdisciplinary Data Science Program, Social Science Research Institute, Duke University (2025–present)
 
@@ -56,7 +56,7 @@ Secondary appointment in the Department of Political Science, Duke University
 
 <div style="height: 1.5em;"></div>
 
-<h2 style="font-size: 0.9em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">PREVIOUS ACADEMIC APPOINTMENTS</h2><hr />
+<h2 style="font-size: 1.125em; font-weight: 400; margin-top: 0; margin-bottom: 0.8em;">PREVIOUS ACADEMIC APPOINTMENTS</h2><hr />
 
 
 Assistant Professor (TT), Department of Political Science, Duke University (2019–2025)
