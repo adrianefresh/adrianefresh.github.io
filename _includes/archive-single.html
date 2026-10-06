@@ -8,6 +8,16 @@
   a.archive__item-title-link:hover {
     color: #2f7f93 !important;
   }
+
+  .archive a.archive__item-institution-link {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .archive a.archive__item-institution-link:hover {
+    color: #2f7f93 !important;
+    text-decoration: underline;
+  }
 </style>
 
 {% if post.header.teaser %}
@@ -102,7 +112,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="margin-top: 0.2em; margin-bottom: 0.2em;"> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+          <p style="margin-top: 0.2em; margin-bottom: 0.2em;"> {{ post.type }}, {% if post.institution_url %}<a href="{{ post.institution_url }}" class="archive__item-institution-link"><i>{{ post.venue }}</i></a>{% else %}<i>{{ post.venue }}</i>{% endif %} </p>
           {% if post.term %}
             <p style="margin-top: 0; margin-bottom: 0.2em;">{{ post.term | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           {% endif %}
