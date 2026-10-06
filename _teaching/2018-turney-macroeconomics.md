@@ -3,7 +3,7 @@ title: "Macroeconomics"
 disable_title_link: true
 collection: teaching
 type: "Undergraduate Course"
-venue: "Nashville State Community College"
+venue: "Nashville State Community College, Turney Prison"
 date: 2018-01-01
 term: "S2018, S2019"
 institution_url: "https://www.thei.org/"
