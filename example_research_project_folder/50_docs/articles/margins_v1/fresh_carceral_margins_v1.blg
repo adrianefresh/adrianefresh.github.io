@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: fresh_carceral_margins_v1.aux
+The style file: apsr.bst
+Database file #1: /Users/Vesper/Documents/Bibtex/Complete_Library.bib
+You've used 32 entries,
+            2874 wiz_defined-function locations,
+            838 strings with 9668 characters,
+and the built_in function-call counts, 86311 in all, are:
+= -- 13889
+> -- 792
+< -- 0
++ -- 6152
+- -- 312
+* -- 6861
+:= -- 18136
+add.period$ -- 128
+call.type$ -- 32
+change.case$ -- 416
+chr.to.int$ -- 32
+cite$ -- 32
+duplicate$ -- 496
+empty$ -- 972
+format.name$ -- 360
+if$ -- 15403
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 51
+newline$ -- 150
+num.names$ -- 336
+pop$ -- 181
+preamble$ -- 1
+purify$ -- 480
+quote$ -- 0
+skip$ -- 365
+stack$ -- 0
+substring$ -- 18984
+swap$ -- 49
+text.length$ -- 448
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 90
+warning$ -- 0
+while$ -- 701
+width$ -- 0
+write$ -- 457
